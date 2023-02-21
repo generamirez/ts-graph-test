@@ -1,0 +1,14 @@
+.sketchPicker {
+  box-shadow: none;
+  padding: none;
+}
+
+.stylerPopup {
+  position:absolute;
+  z-index: 2;
+  padding: 10px 10px 0px;
+  box-sizing: initial;
+  background: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px, rgba(0, 0, 0, 0.15) 0px 8px 16px;
+}

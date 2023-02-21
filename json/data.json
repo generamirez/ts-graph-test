@@ -1,0 +1,152 @@
+[
+    {
+        "keyIndex": "22-Feb",
+        "activated": 8,
+        "not activated": 4
+    },
+    {
+        "keyIndex": "23-Feb",
+        "activated": 2,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "24-Feb",
+        "activated": 3,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "25-Feb",
+        "activated": 8,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "26-Feb",
+        "activated": 3,
+        "not activated": 4
+    },
+    {
+        "keyIndex": "27-Feb",
+        "activated": 7,
+        "not activated": 6
+    },
+    {
+        "keyIndex": "28-Feb",
+        "activated": 4,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "01-Mar",
+        "activated": 8,
+        "not activated": 6
+    },
+    {
+        "keyIndex": "02-Mar",
+        "activated": 10,
+        "not activated": 5
+    },
+    {
+        "keyIndex": "03-Mar",
+        "activated": 6,
+        "not activated": 10
+    },
+    {
+        "keyIndex": "04-Mar",
+        "activated": 5,
+        "not activated": 3
+    },
+    {
+        "keyIndex": "05-Mar",
+        "activated": 7,
+        "not activated": 7
+    },
+    {
+        "keyIndex": "06-Mar",
+        "activated": 6,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "07-Mar",
+        "activated": 6,
+        "not activated": 4
+    },
+    {
+        "keyIndex": "08-Mar",
+        "activated": 5,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "09-Mar",
+        "activated": 10,
+        "not activated": 1
+    },
+    {
+        "keyIndex": "10-Mar",
+        "activated": 6,
+        "not activated": 3
+    },
+    {
+        "keyIndex": "11-Mar",
+        "activated": 3,
+        "not activated": 1
+    },
+    {
+        "keyIndex": "12-Mar",
+        "activated": 1,
+        "not activated": 7
+    },
+    {
+        "keyIndex": "13-Mar",
+        "activated": 4,
+        "not activated": 1
+    },
+    {
+        "keyIndex": "14-Mar",
+        "activated": 2,
+        "not activated": 6
+    },
+    {
+        "keyIndex": "15-Mar",
+        "activated": 3,
+        "not activated": 8
+    },
+    {
+        "keyIndex": "16-Mar",
+        "activated": 4,
+        "not activated": 8
+    },
+    {
+        "keyIndex": "17-Mar",
+        "activated": 1,
+        "not activated": 1
+    },
+    {
+        "keyIndex": "18-Mar",
+        "activated": 1,
+        "not activated": 2
+    },
+    {
+        "keyIndex": "19-Mar",
+        "activated": 7,
+        "not activated": 4
+    },
+    {
+        "keyIndex": "20-Mar",
+        "activated": 2,
+        "not activated": 6
+    },
+    {
+        "keyIndex": "21-Mar",
+        "activated": 8,
+        "not activated": 6
+    },
+    {
+        "keyIndex": "22-Mar",
+        "activated": 2,
+        "not activated": 7
+    },
+    {
+        "keyIndex": "23-Mar",
+        "activated": 4,
+        "not activated": 9
+    }
+]
